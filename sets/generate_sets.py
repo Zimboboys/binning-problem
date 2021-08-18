@@ -14,7 +14,7 @@ for i in range(A_count):
 # elements of B are of the form (x, y, z, t)
 for i in range(B_count):
     x, y, z = random.random(), random.random(), random.random()
-    A.write("{0}, {1}, {2}\n".format(x, y, z))
+    B.write("{0}, {1}, {2}\n".format(x, y, z))
 
 A.close()
 B.close()
