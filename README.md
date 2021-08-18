@@ -1,2 +1,5 @@
 # binning-problem
-i guess this is what math for fun looks like
+
+a quick little problem of finding the closest pairings between all elements of two sets. decided to go way overboard on the math lingo on my brainstorming cause it's "fun"
+
+problem was gifted to me by Kai. thanks Kai 🙏
