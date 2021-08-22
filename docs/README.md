@@ -1,6 +1,6 @@
 # explanations
 
-**the problem statement** is loosely defined as finding a points nearest neighbor from another set in a decently quick amount of time. this specific implementaion focuses on mapping many points to a few points.
+**the problem statement** is loosely defined as finding a points nearest neighbor from another set in a decently quick amount of time. this specific implementaion focuses on mapping points from a large set to a set with few points.
 
 the [writeup doc](./writeup.pdf) is my brainstorming. if you're curious about what's going on, that might help.
 
