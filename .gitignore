@@ -1,4 +1,5 @@
 # testing artifacts
 sets/*.csv
+expected.out
 
 __pycache__/
